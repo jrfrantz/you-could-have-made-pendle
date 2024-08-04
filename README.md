@@ -1,3 +1,7 @@
+## You could have made: Pendle
+This is all the code from https://jacobfrantz.com/posts/pendle. 
+This is meant to be instructive, and while it compiles, it won't actually work.
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
